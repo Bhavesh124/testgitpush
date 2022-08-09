@@ -8,6 +8,16 @@ d={
     "email":"bhavesh@gmail.com",
     "surname":"chavan"
 }
+d={
+    "name":"Bhavesh",
+    "email":"bhavesh@gmail.com",
+    "surname":"chavan"
+}
+d={
+    "name":"Bhavesh",
+    "email":"bhavesh@gmail.com",
+    "surname":"chavan"
+}
 db1 = client['test']
 coll = db1['test']
 coll.insert_one(d )
